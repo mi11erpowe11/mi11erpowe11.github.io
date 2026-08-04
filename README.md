@@ -11,4 +11,4 @@ This repository contains my personal website and engineering portfolio.
 I am a senior Electrical Engineering student graduating in May 2027. My experience includes heavy equipment remanufacturing, industrial networking, Power Apps support, manufacturing procedure improvement, ranch work, and public performance.
 
 ## Website
-https://mi11erpowell.github.io
+https://mi11erpowe11.github.io
